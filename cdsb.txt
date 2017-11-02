@@ -1,0 +1,109 @@
+ My project topic is “computerized Databank system of Bihar”. e can say that a “computerized Databank system of Bihar” is used for capturing storing, analyzing and managing data and associated attributes. IT IS Asystem based of computer system which has capacity of integration, storing, editing, sharing, analyzing and displaying information related to our data like population, no. of cities or village’s etc in Bihar.
+This system  is the integration of computer hardware and software component which is used to create, manipulate and analyze data to produced meaningful information.Basically it is used to analyze how many peoples in Bihar come above the poverty line and how many people comes below the poverty line. This system is also used to calculate no. of population available in Bihar; how many number of man and women are educated, how many land per hectare is available for farmer etc which is further use by government to analyze this report.
+
+
+ My project “computerized Databank System of Bihar” has been created with the help of two master minded programming languages known as “java” and “oracle”. Java is used as a front end in my project where as oracle is used as back end. 
+ 
+OBJECTIVE OF THIS PROJECT
+
+
+1.	CAPACITY:-
+           a)   FASTER RETRIEVAL OF INFORMATION: - In “Computerized Databank System of Bihar” there may be need for locating and retrieving information from storage media which require more complex query. As the project was made in java as a front end and oracle as a back end which support sql.  As sql provides more complex searching method which help the program for faster retrieval of information as oracle  fully supported the RDBMS feature and mostly liked by the programmer.
+
+           b)   IMPROVED PROCESSING SPEED:- The “computerized databank system of Bihar” uses a number of data and function which will operate on data. As the program is created by using java so the memory allocation for data will be done by jvm which perform the related memory management technique virtually and oracle provides dll to manage the memory virtually allocated by the oracle to keep all record and hence which provide an inherent speed for processing.
+     
+            c) INCREASED VOLUME: - In the “Computerized Databank System of Bihar”, it provides the process to handle a large amount of data. Hence the program are written in java so that memory management is done by jvm so that if volume of data increased then it can easily handled and provide quick search of data from the memory.
+
+2.	CONRTOL:-
+            a) BETTER ACCURACY AND CONSISTENCY: - Carrying out calculation like arithmetic calculation is very important for any program. Hence my project is created in java which support various mathematical function and oracle provide queries for performing such type of calculation which in turn produce  a better accuracy and consistency of  result so that program does generate wrong output. It provides flexibility for calculating large calculation and performed well.
+
+         b)  BETTER SECURITY: - Security is measure concern in any project so that important data can be accessed only by the authorized person. There are three level of security is implemented one is administrative level, second is user level and third is data level.
+
+3.	GRAPHICAL USER INTERFACE:-
+
+           a)   INTEGRATION:-since the” Computerized Databank System of Bihar” built in oracle and java which provides dll and mvc  a interactive GUI interface and information is take place in a single virtual memory area to coordinate with each other for faster processing of data in remote area such as db engine.
+
+
+        b)    ENHANCED COMMUNICATION:-since the “Computerized Databank System of Bihar” built in java as a front end which provide various tool for creating an interactive graphical interface as window interface so that user can interact friendly with the application so the information can easily handled from one application to another like embedding and linking feature of window. It is possible to embed a part of document in any specific module from another application.
+
+
+The system has following feature:-
+a)	Updating the database
+b)	Accepting query language statement
+c)	Enforcing data integrity specification
+d)	Managing data sharing
+e)	Optimizing query
+f)	Retrieving information from the data base
+g)	Enforcing security specification
+h)	Enforcing transaction consistency
+i)	Managing system catalog
+j)      providing a real time gui interaction..
+
+
+
+HEnce this sYstem is based on the concept of RDBMS AND OOP technology.......
+
+RDBMS [Relational Database Management System]:
+          	  A Relational data model was introduced by Dr. E.F. Codd  which give the concept of RDBMS system i.e. Table. A RDBMS is a computer program for managing table. It has three major parts –
+•	Data that is presented as tables.
+•	Operators for manipulating tables.
+•	Integrity rules on tables.
+
+FRONT-END
+The need of now a day’s software development is competence in a web based application front-end to which can connect to relation database engine. This gives the programmer the opportunity to develop client-server based commercial application. This application gave user the power and ease of user of web based application with the multi-user capabilities of auto based RDBMS engine such as oracle. 
+
+From the own point of view, JAVA is one of Today’s most popular software development language. Java is a fully Object-Oriented language with strong support for proper software engineering techniques.  Java provides many features which are described below:-
+•	Simple :- Java was designed to be very simple and easy to learn. The syntax of Java has kept nearer to C++ so that the usage of Java does not require extensive training programes to be undertaken. A programmer aware of the various Object-Oriented concepts can easily develop application in Java.
+•	Object-Oriented :- object oriented design is a technique that focuses design on the data and on the  interfaces rather the modularization of the functionalities or the tools used to develop them.
+•	Robust :- The multi-platform environment of the web places high demand on the reliability of the program to execute on a variety of systems. Thus, high priority has been given to create robust and highly reliable programs in the design of Java. It provides extensive compile-time checking followed by a second level of run-time checking. The most common problems in programming language are related to memory management and exception handling which are effectively managed by jvm.
+•	Secure :- Java support the Unicode which provide the facility to prevent data from virus attack and it run on its own environment so that outsider can’t access the data directly and provide higher security of data as the data can handled by the jvm itself.
+•	Interpreted :- Java bytecode is not directly executed by the system, because Java is interpreted. However, the speed is more than adequate for most interactive application. 
+•	Multithreaded :- Java’s multithreading capability provides the mean to build applications with many concurrent threads of activity. The multithreading feature of Java has various sophisticated synchronization primitives. Moreover, Java’s high level system libraries have been written to be thread safe, i.e., the functionality provided by the available without conflict to multiple concurrent threads of execution.
+•	Dynamic :- While the Java compiler is strict in its static checking during compile time, the language and run time systems are dynamic during linking and loading stages. Classes are linked only as needed. New code modules can be linked in on demand from a variety of sources, even from sources across the network in a large number.
+
+
+BACK-END
+As we know that the worlds longest selling are the DBMS product. Oracle work groups or enterprise server account major percentage of RDBMS engine sold worldwide. The natural programming language of this product is SQL/PLSQL the creation of user defined function procedure database trigger and other specific database processing PLSQL for commercial application will always related to oracle related to oracle engine. 
+Oracle can run across different platforms. They can also transfer data from various hardware platforms without any conversions of programs. They thus satisfy the feature of having open architecture and distributed data management capability. This database have industry standard SQL & Report writer which are 4GL tools. This not only facilitates faster development, but also enhances professional productivity. Oracle has a query optimizer. The main function of a query optimizer is to determine automatically the fastest method in 
+which a database request can be handled. As a result of this programmers and end users do no need any additional training to obtain good RDBMS performance. These databases have servers or data mangers, which minimize both memory and CPU resource utilization. This ensures high performance during transaction processing.
+Oracle has introduced a large number of new features such as analysis queries, scalar sub-queries, joins, pivot insert statement and merger statement. Object oriented feature such as inheritance, Polymorphism, undo table space and various PLSQL packages. It continues to provide the most secure application development and deployment platform in the industry.  Exception handling Oracle locating and user defined locking are fully supported. It also provides the key concept such as primary key, unique key and foreign key.
+?	Intel (or equivalent) Pentium 500 MHZ processor  or more
+?	256 MB RAM
+?	15 GB HARDISK
+?	ONE PRINTER.
+
+
+MINIMUM SOFTWARE REQUIRMENT:-
+ 
+?	O/S – WINDOWS XP. 
+MINIMUM HARDWARE REQUIRMENT:-
+?	LANGUAGE— SQL, PLSQL, OOPs.
+?	FRONT END TOOLS-- JAVA
+?	BACK END TOOLS—ORACLE 8i
+
+security mechanism   
+
+
+The project was developed using “java” as a front end and “oracle” as a back end. Java is a secure language means it provide security on data so that it can’t be accessed directly. As we know java is fully based on the concept of object oriented programming which provide higher level of security on data as work can be done via object so that internal working are hidden from users. It also supports various tools to provide the security on the data.
+	Oracle is a powerful tool based on the concept on RDBMS, and we know that oracle provide high level of security on data so that unauthorized user can’t access the data. It really broad to use the all security mechanism provided be oracle corporation. In the project following security mechanism are used: -
+
+I.	Internal database security
+II.	Application security
+III.	External database security
+
+future scope and enhancement
+
+
+This project Computerized Databank System of Bihar is work well now and this project was made in java which fully support object oriented concept and supports Unicode which prevent the data from malicious or virus attack.  Hence any changes required in project just need to adding extra classes in the project without effecting our original data store.
+     The back end of the project is oracle which is based on the concept of RDBMS which provide user facility to easily modifying and storing the database. Hence any modification requires in project in future is easy to enhanced. Oracle provides facility to change the database without deletion of effecting of original project. Hence future modification is easy and flexible in this project.
+
+
+
+
+
+
+fore more details contact to the devloper or mail on the given email_id
+ravi.kumar567@yahoo.com
+
+
+
